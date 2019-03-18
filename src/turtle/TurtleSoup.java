@@ -176,7 +176,7 @@ public class TurtleSoup{
         {turtle.turn(10);
         turtle.forward(15);}
         }
-        turtle.color(PenColor.YELLOW);
+        turtle.color(PenColor.PINK);
         for(int e=300;e<1000;e++)
         {
          turtle.turn(15);
